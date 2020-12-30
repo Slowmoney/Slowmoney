@@ -1,4 +1,6 @@
+
 <img src="https://badges.pufler.dev/visits/Slowmoney/Slowmoney?style=flat-square&color=6875f5&logo=github" />
+<img src="https://badges.pufler.dev/visits/Slowmoney/Slowmoney" />
 
 ### Stats
 
